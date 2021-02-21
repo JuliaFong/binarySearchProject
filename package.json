@@ -15,5 +15,14 @@
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaFong/binarySearchProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuliaFong/binarySearchProject/issues"
+  },
+  "homepage": "https://github.com/JuliaFong/binarySearchProject#readme",
   "description": ""
 }
